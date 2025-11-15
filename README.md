@@ -23,6 +23,14 @@ Service Type Selection
 
 Available Slot Display
 
+
+#output
+<img width="909" height="758" alt="image" src="https://github.com/user-attachments/assets/6a5fcaaf-1022-4356-aa7d-d40ea23408ef" />
+
+
+#code
+<img width="392" height="740" alt="image" src="https://github.com/user-attachments/assets/f386acf6-aff2-47e0-bfa4-5c80451f5cf9" />
+
 Slot Booking
 
 Booking Confirmation Summary
