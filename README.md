@@ -38,4 +38,7 @@ Fully Console-Based, No External Libraries Required
 # code
 
 
-<img width="392" height="740" alt="image" src="https://github.com/user-attachments/assets/f386acf6-aff2-47e0-bfa4-5c80451f5cf9" 
+<img width="392" height="740" alt="image" src="https://github.com/user-attachments/assets/f386acf6-aff2-47e0-bfa4-5c80451f5cf9" />
+
+
+
